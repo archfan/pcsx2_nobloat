@@ -6,8 +6,8 @@ updater/
 .github/workflows/macos_*
 .github/workflows/windows_*
 .github/workflows/cron_publish_flatpak.yml
-.github/workflows/scripts/macos
-.github/workflows/scripts/linux
+.github/workflows/scripts/macos/
+.github/workflows/scripts/linux/
 
 .*.swp
 .*.swn
