@@ -1,3 +1,8 @@
+# ignore useless directories for UWP builds
+pcsx2-gsrunner/
+pcsx2-qt/
+updater/
+
 .*.swp
 .*.swn
 .*.swo
